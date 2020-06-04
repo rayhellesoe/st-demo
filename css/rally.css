@@ -529,7 +529,7 @@ nav {
 
 @media only screen and (max-width: 375px) {
     .display-3 {
-        font-size: 54px;
+        font-size: 30px;
     }
 
     .lead {
